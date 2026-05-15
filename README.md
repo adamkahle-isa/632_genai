@@ -1,6 +1,6 @@
 # Project Burry
 
-Project Burry is a financial analytics platform that combines Retrieval-Augmented Generation (RAG), financial research, and dashboard visualization tools to support small firms and independent investors. The project uses Databricks for RAG development and integrates financial reports, news, and macroeconomic data into a conversational analytics workflow.
+Project Burry, named after legendary Hedge Fund Manager Michael Burry, is a financial analytics platform that combines Retrieval-Augmented Generation (RAG), financial research, and dashboard visualization tools to support small firms and independent investors. The project uses Databricks for RAG development and integrates financial reports, news, and macroeconomic data into a conversational analytics workflow.
 
 ## Repository Contents
 
