@@ -9,7 +9,7 @@ Project Burry, named after legendary Hedge Fund Manager Michael Burry, is a fina
 - `ProjectBurry.pdf` — Full technical report explaining the project, architecture, evaluation, and future improvements.
 - `ProjectBurryPitch.pdf` — Short consulting-style presentation deck.
 - `quarterly_banking.pdf` — Original FDIC banking report used for the RAG pipeline.
-- `ProjectBurryDemo.pdf` — Demo video showcasing the platform’s capabilities.
+- `ProjectBurryDemo.mov` — Demo video showcasing the platform’s capabilities.
 
 ## Key Features
 
